@@ -1,8 +1,10 @@
 <div align="center">
-  <img src="https://thedevlabs.in/logo.png" width="120" height="120" alt="The Dev Labs Logo" style="border-radius: 20%;" />
+  <a href="https://thedevlabs.in">
+    <img src="https://thedevlabs.in/logo.png" width="120" height="120" alt="The Dev Labs Logo" style="border-radius: 20%;" />
+  </a>
   <h1>The Dev Labs</h1>
   <p><b>Premium Software & Design Agency | Lucknow, IN</b></p>
-  <p>We engineer digital dominance. Custom software, high-end web design, and scalable tech solutions.</p>
+  <p><i>"We don't just build websites. We engineer digital dominance."</i></p>
 
   <p>
     <a href="https://thedevlabs.in">
@@ -17,35 +19,47 @@
   </p>
 </div>
 
-<br />
+---
 
-### 🚀 Featured Client Work
-*Code for client projects is kept private to protect intellectual property. Below are live deployments.*
+### ⚡ Who We Are
+**The Dev Labs** is Lucknow's premier digital product agency. We specialize in building **high-performance systems** for businesses that have outgrown generic WordPress templates.
 
-| Project | Category | Tech Stack | Status | Live Link |
-| :--- | :--- | :--- | :--- | :--- |
-| **The Dev Labs** | Agency Portfolio | Next.js 14, Framer Motion | 🟢 Live | [Visit Site](https://thedevlabs.in) |
-| **Grand Hotel System** | Hospitality | React, Tailwind, Glass UI | 🟢 Live | [View Demo](#) |
-| **Corporate Solutions** | B2B Services | Next.js, SEO Optimized | 🟢 Live | [View Demo](#) |
-| **Cafe Delight** | F&B / Menu | Next.js, QR System | 🟡 In Dev | *Coming Soon* |
-
-<br />
-
-### 🛠 Tech Arsenal
-
-#### Frontend & Design
-![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=blue)
-
-#### Backend & Infrastructure
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+We combine **Silicon Valley aesthetics** (Glassmorphism, Minimalist UI) with **robust engineering** (Next.js, Cloud Architecture) to give local businesses a global standard.
 
 ---
 
+### 📂 Featured Client Work
+*Source code for client projects is strictly private. Below are live deployments.*
+
+| Project | Category | Tech Stack | Status | Preview |
+| :--- | :--- | :--- | :--- | :--- |
+| **Yutaka Hotel** | 🏨 Hospitality | React, Framer Motion, Tailwind | 🟢 Live | [View Demo](https://hotel-demo-link.vercel.app) |
+| **Budget Buddy** | 💰 FinTech | Next.js, Chart.js, Supabase | 🟢 Live | [View App](https://budget-tracker-link.vercel.app) |
+| **Atlas Kitchen** | 🍽️ F&B | Next.js, QR Menu System | 🟡 In Dev | *Coming Soon* |
+| **The Dev Labs** | 🌐 Agency Site | Next.js 14, Glassmorphism | 🟢 Live | [Visit Site](https://thedevlabs.in) |
+
+---
+
+### 🛠 The "Digital Dominance" Stack
+
+#### **Frontend & Experience**
+![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=blue)
+
+#### **Backend & Infrastructure**
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+---
+
+### 📈 Why Choose Us?
+> *"Most agencies sell you a car. We build you the highway."*
+
+- **Speed:** Our sites score 98+ on Google Core Web Vitals.
+- **Design:** Premium "Glass" UI that builds instant trust.
+- **Scale:** Systems ready to handle 10 or 10,000 users.
+
+<br />
+
 <div align="center">
-  <p><i>Building the future of digital business in India.</i></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=TheDevLabs-In&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=38B2AC" alt="Stats" />
+  <p><i>Building the future of digital business in Uttar Pradesh.</i></p>
 </div>
